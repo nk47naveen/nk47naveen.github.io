@@ -132,16 +132,20 @@
       }
 
       .cls-31 {
-        font-size: 35px;
+        font-size: 28px;
       }
 
-      .cls-31, .cls-32, .cls-41, .cls-48, .cls-50, .cls-52 {
-        font-family: SegoeUI-Semibold, Segoe UI;
-        font-weight: 600;
+      .cls-31, .cls-47 {
+        font-family: ArialMT, Arial;
       }
 
       .cls-32, .cls-50, .cls-51 {
         fill: #060606;
+      }
+
+      .cls-32, .cls-41, .cls-48, .cls-50, .cls-52 {
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
       }
 
       .cls-33 {
@@ -187,7 +191,6 @@
 
       .cls-47 {
         font-size: 60px;
-        font-family: ArialMT, Arial;
       }
 
       .cls-52 {
@@ -867,11 +870,11 @@
       <circle class="cls-64" cx="30" cy="30" r="30"/>
       <circle class="cls-1" cx="30" cy="30" r="27.5"/>
     </g>
-    <text id="_" data-name="+" class="cls-31" transform="translate(1458 4956)"><tspan x="0" y="0">+</tspan></text>
-    <text id="_2" data-name="+" class="cls-31" transform="translate(1469 9647)"><tspan x="0" y="0">+</tspan></text>
-    <text id="_3" data-name="+" class="cls-31" transform="translate(1478 7360)"><tspan x="0" y="0">+</tspan></text>
-    <text id="_4" data-name="+" class="cls-31" transform="translate(440 8445)"><tspan x="0" y="0">+</tspan></text>
-    <text id="_5" data-name="+" class="cls-31" transform="translate(452 6158)"><tspan x="0" y="0">+</tspan></text>
+    <text id="_" data-name="+" class="cls-31" transform="translate(1462 4955)"><tspan x="0" y="0">+</tspan></text>
+    <text id="_2" data-name="+" class="cls-31" transform="translate(456 6157)"><tspan x="0" y="0">+</tspan></text>
+    <text id="_3" data-name="+" class="cls-31" transform="translate(1482 7359)"><tspan x="0" y="0">+</tspan></text>
+    <text id="_4" data-name="+" class="cls-31" transform="translate(444 8444)"><tspan x="0" y="0">+</tspan></text>
+    <text id="_5" data-name="+" class="cls-31" transform="translate(1473 9646)"><tspan x="0" y="0">+</tspan></text>
     <g id="Group_120" data-name="Group 120" transform="translate(1305 11297)">
       <text id="Price_per_vehicle" data-name="Price 
 per vehicle" class="cls-32" transform="translate(159 588)"><tspan x="-12.461" y="0">Price </tspan><tspan x="-24.578" y="14">per vehicle</tspan></text>
@@ -1056,7 +1059,7 @@ per vehicle" class="cls-32" transform="translate(159 588)"><tspan x="-12.461" y=
     <text id="Edit_Inactive_Ad" data-name="Edit Inactive Ad" class="cls-47" transform="translate(248 7219)"><tspan x="0" y="0">Edit Inactive Ad</tspan></text>
     <text id="Filter_Active_Ad" data-name="Filter Active Ad" class="cls-47" transform="translate(1288 7930)"><tspan x="0" y="0">Filter Active Ad</tspan></text>
     <text id="Filter_Inctive_Ad" data-name="Filter Inctive Ad" class="cls-47" transform="translate(243 9132)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
-    <text id="Filter_Inctive_Ad-2" data-name="Filter Inctive Ad" class="cls-47" transform="translate(1279 10499)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
+    <text id="Filter_Inactive_Ad" data-name="Filter Inactive Ad" class="cls-47" transform="translate(1279 10499)"><tspan x="0" y="0">Filter Inactive Ad</tspan></text>
     <text id="Expand_Slots" data-name="Expand Slots" class="cls-47" transform="translate(290 11673)"><tspan x="0" y="0">Expand Slots</tspan></text>
     <g id="Mask_Group_15" data-name="Mask Group 15" class="cls-39" transform="translate(1314 6694)">
       <use id="real-ai-1110x9999-4" data-name="real-ai-1110x9999" transform="translate(30 354)" xlink:href="#image-3"/>
