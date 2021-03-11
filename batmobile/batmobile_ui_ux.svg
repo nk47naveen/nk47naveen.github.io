@@ -13,7 +13,7 @@
         stroke: #1b5bdc;
       }
 
-      .cls-3, .cls-46, .cls-53, .cls-59 {
+      .cls-3, .cls-53, .cls-59 {
         stroke: #707070;
       }
 
@@ -162,6 +162,9 @@
 
       .cls-42 {
         font-family: SegoeUI-Bold, Segoe UI;
+      }
+
+      .cls-42, .cls-46 {
         font-weight: 700;
       }
 
@@ -177,16 +180,14 @@
         fill: #001d57;
       }
 
-      .cls-46, .cls-47 {
-        font-size: 75px;
-      }
-
       .cls-46 {
-        font-family: RussoOne-Regular, Russo One;
+        font-size: 75px;
+        font-family: Arial-BoldMT, Arial;
       }
 
       .cls-47 {
-        font-family: Pristina-Regular, Pristina;
+        font-size: 60px;
+        font-family: ArialMT, Arial;
       }
 
       .cls-52 {
@@ -1047,16 +1048,16 @@ per vehicle" class="cls-32" transform="translate(159 588)"><tspan x="-12.461" y=
       <text id="Inactive-8" data-name="Inactive" class="cls-37" transform="translate(245 135)"><tspan x="0" y="0">Inactive</tspan></text>
     </g>
     <text id="BAT_MOBILE_UI_UX" data-name="BAT MOBILE UI/UX" class="cls-46" transform="translate(598.5 294)"><tspan x="0" y="0">BAT MOBILE UI/UX</tspan></text>
-    <text id="Splash_Screen" data-name="Splash Screen" class="cls-47" transform="translate(1298 1092)"><tspan x="0" y="0">Splash Screen</tspan></text>
-    <text id="Login_Screen" data-name="Login Screen" class="cls-47" transform="translate(325 2328)"><tspan x="0" y="0">Login Screen</tspan></text>
-    <text id="Signup_Screen" data-name="Signup Screen" class="cls-47" transform="translate(1298 3530)"><tspan x="0" y="0">Signup Screen</tspan></text>
-    <text id="Ads_Screen" data-name="Ads Screen" class="cls-47" transform="translate(369 4701)"><tspan x="0" y="0">Ads Screen</tspan></text>
-    <text id="Edit_Active_Ad" data-name="Edit Active Ad" class="cls-47" transform="translate(1297 5824)"><tspan x="0" y="0">Edit Active Ad</tspan></text>
-    <text id="Edit_Inactive_Ad" data-name="Edit Inactive Ad" class="cls-47" transform="translate(239 7215)"><tspan x="0" y="0">Edit Inactive Ad</tspan></text>
+    <text id="Splash_Screen" data-name="Splash Screen" class="cls-47" transform="translate(1298 1097)"><tspan x="0" y="0">Splash Screen</tspan></text>
+    <text id="Login_Screen" data-name="Login Screen" class="cls-47" transform="translate(287 2333)"><tspan x="0" y="0">Login Screen</tspan></text>
+    <text id="Signup_Screen" data-name="Signup Screen" class="cls-47" transform="translate(1298 3535)"><tspan x="0" y="0">Signup Screen</tspan></text>
+    <text id="Ads_Screen" data-name="Ads Screen" class="cls-47" transform="translate(331 4703)"><tspan x="0" y="0">Ads Screen</tspan></text>
+    <text id="Edit_Active_Ad" data-name="Edit Active Ad" class="cls-47" transform="translate(1297 5827)"><tspan x="0" y="0">Edit Active Ad</tspan></text>
+    <text id="Edit_Inactive_Ad" data-name="Edit Inactive Ad" class="cls-47" transform="translate(248 7219)"><tspan x="0" y="0">Edit Inactive Ad</tspan></text>
     <text id="Filter_Active_Ad" data-name="Filter Active Ad" class="cls-47" transform="translate(1288 7930)"><tspan x="0" y="0">Filter Active Ad</tspan></text>
-    <text id="Filter_Inctive_Ad" data-name="Filter Inctive Ad" class="cls-47" transform="translate(230 9127)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
-    <text id="Filter_Inctive_Ad-2" data-name="Filter Inctive Ad" class="cls-47" transform="translate(1279 10493)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
-    <text id="Expand_Slots" data-name="Expand Slots" class="cls-47" transform="translate(321 11671)"><tspan x="0" y="0">Expand Slots</tspan></text>
+    <text id="Filter_Inctive_Ad" data-name="Filter Inctive Ad" class="cls-47" transform="translate(243 9132)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
+    <text id="Filter_Inctive_Ad-2" data-name="Filter Inctive Ad" class="cls-47" transform="translate(1279 10499)"><tspan x="0" y="0">Filter Inctive Ad</tspan></text>
+    <text id="Expand_Slots" data-name="Expand Slots" class="cls-47" transform="translate(290 11673)"><tspan x="0" y="0">Expand Slots</tspan></text>
     <g id="Mask_Group_15" data-name="Mask Group 15" class="cls-39" transform="translate(1314 6694)">
       <use id="real-ai-1110x9999-4" data-name="real-ai-1110x9999" transform="translate(30 354)" xlink:href="#image-3"/>
     </g>
