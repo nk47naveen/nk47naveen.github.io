@@ -1,5 +1,4 @@
-<?php
-  
+<?php 
 if($_POST) {
     $visitor_name = "";
     $visitor_email = "";
@@ -57,8 +56,8 @@ if($_POST) {
       
     $email_body .= "</div>";
  
-    $headers  = 'MIME-Version: 1.0' . "\r\n"
-    .'Content-type: text/html; charset=utf-8' . "\r\n"
+    /*$headers  = 'MIME-Version: 1.0' . "\r\n"
+    .'Content-type: text/html; charset=utf-8' . "\r\n"*/
     .'From: ' . $visitor_email . "\r\n";
       
     if(mail($recipient, $email_title, $email_body, $headers)) {
